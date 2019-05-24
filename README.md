@@ -1,1 +1,0 @@
-A tutorial app project by James Quick which creates a simple quiz app.
